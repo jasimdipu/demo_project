@@ -1,0 +1,32 @@
+{
+  "name": "demo_project",
+  "version": "1.0.0",
+  "description": "Backend server -> Node.js + Express using rest api, Frontend Side -> React, React Hook, Bootstrap, DB->Mongodb",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasimdipu/demo_project.git"
+  },
+  "keywords": [
+    "node",
+    "mongodb",
+    "react",
+    "express"
+  ],
+  "author": "dipu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasimdipu/demo_project/issues"
+  },
+  "homepage": "https://github.com/jasimdipu/demo_project#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.3",
+    "mongoose": "^5.11.6"
+  }
+}
